@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/giulia.mk
+    $(LOCAL_DIR)/voltage_giulia.mk
