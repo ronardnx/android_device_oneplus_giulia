@@ -43,7 +43,7 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay-voltage
+    $(LOCAL_PATH)/overlay-aospa
 
 PRODUCT_PACKAGES += \
     KeyHandlerResTarget \
